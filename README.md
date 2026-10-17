@@ -2,6 +2,8 @@
 
 Sebuah toples kaca di tengah salju. Ketuk, dan ada surat di dalamnya.
 
+**→ https://kukudunia.github.io/toples-tofles/**
+
 Halaman statis satu file. Tidak ada build, tidak ada dependency, tidak ada backend. Buka `index.html` di browser dan semuanya jalan.
 
 ---
