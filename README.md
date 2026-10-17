@@ -1,4 +1,4 @@
-# Toples untuk Tofles
+# Toples untuk Nasi
 
 Sebuah toples kaca di tengah salju. Ketuk, dan ada surat di dalamnya.
 
